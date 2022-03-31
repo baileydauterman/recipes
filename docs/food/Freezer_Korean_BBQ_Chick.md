@@ -6,15 +6,15 @@ Yields: 6 servings
 From Asian Crockpot Freezer Meals
 
 ## Ingredients
-- 2 pounds boneless skinless chicken thighs
+- 2 lbs boneless skinless chicken thighs
 - 1 small yellow onion, chopped (1 cup)
 - 4 cloves garlic, minced
-- 1/4 cup low sodium soy sauce
-- The juice from one lemon (1/4 cup)
-- 2 tablespoons light brown sugar
-- 1 tablespoon sesame oil
-- ½ teaspoon crushed red pepper flakes
-- 1-inch fresh ginger, peeled and grated (1 tablespoon)
+- &frac14; cup low sodium soy sauce
+- The juice from one lemon (&frac14; cup)
+- 2 tbsps light brown sugar
+- 1 tbsp sesame oil
+- &frac12; teaspoon crushed red pepper flakes
+- 1-inch fresh ginger, peeled and grated (1 tbsp)
 - 16oz bag of fresh coleslaw mix (grated cabbage and carrots)
 
 ## Instructions

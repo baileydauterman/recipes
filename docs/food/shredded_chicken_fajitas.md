@@ -8,16 +8,16 @@ Yields: 6 servings
 From Clean Eating Freezer Meals
 
 ##Ingredients
-- 2 pounds boneless skinless chicken breasts, fat trimmed
+- 2 lbs boneless skinless chicken breasts, fat trimmed
 - 1 red pepper, sliced
 - 1 green pepper, sliced
 - 1 red onion, sliced
-- ¼ cup extra virgin olive oil
-- The juice from one lime (about 3 tablespoons)
-- 1 tablespoon chili powder
+- &frac14; cup extra virgin olive oil
+- The juice from one lime (about 3 tbsps)
+- 1 tbsp chili powder
 - 2 teaspoons cumin
 - 1 teaspoon crushed red pepper flakes
-- ½ teaspoon salt
+- &frac12; teaspoon salt
 
 ## Instructions
 

@@ -24,7 +24,7 @@ From youtube's [How to Drink](https://www.youtube.com/watch?v=_kQiC0etS3g)
 
 1. In a stand mixer on medium spead beat egg whites to soft peaks. 
 2. Add in 1 Tbs. of sugar, and beat until stiff peaks are formed. Set a side in a new bowl.
-3. Add egg yolks and 1/4 cup of sugar to now empty stand mixer bowl. 
+3. Add egg yolks and &frac14; cup of sugar to now empty stand mixer bowl. 
 4. Whip until fully integrated and lightened in color. 
 5. Add all remaining ingredients, and combine a low speed for about a  minute
 6. Fold in egg whites with a spade folder attachment 

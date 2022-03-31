@@ -1,22 +1,20 @@
 # Biscuits and Gravy with Sausage and Egg Breakfast Casserole
 
-Prep Time: 20 
-Cook Time: 45 minutes 
-Total Time: 65 minutes (plus additional time if baking cold ingrediets) 
-Yield: 8 
-Category: Breakfast 
-Method: oven
-
-Biscuits and Gravy with Sausage and Egg Breakfast Casserole is filled with eggs and cheese and is perfect for lazy Sunday mornings. Bonus: this Egg Casserole can be assembled the night before for practically no morning prep!
+> **Prep Time** 20 min.<br>
+**Cook Time:** 45 min.<br>
+**Total Time:** 65 min.<br>
+**Yield:** 8<br> <br>
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Breakfast-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
 
 ## Ingredients
 
 - 8 count package of biscuit dough (we used Grands, which are slightly bigger)
 - 6 eggs
-- 1 (2 3/4 ounce) package peppered gravy mix (makes 2 cups)
+- 1 (2 &frac34; ounce) package peppered gravy mix (makes 2 cups)
 - 1 lb sausage, any flavor
 - 1 cup cheese, shredded
-- ½ cup milk
+- &frac12; cup milk
 - salt and pepper to taste
 
 ## Instructions

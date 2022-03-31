@@ -2,8 +2,8 @@
 
 ## INGREDIENTS
 
-- 2 ounces Wild Turkey® bourbon
-- ½ ounce lime juice, freshly squeezed
+- 2 oz Wild Turkey® bourbon
+- &frac12; ounce lime juice, freshly squeezed
 - Ginger beer, to top
 
 - Garnish: mint sprig.

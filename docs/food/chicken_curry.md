@@ -1,19 +1,26 @@
 # Chicken Curry
 
-From [recipetineats](https://www.recipetineats.com/chicken-curry/)
+> From [recipetineats](https://www.recipetineats.com/chicken-curry/)
+
+> **Prep Time** 20 min.<br>
+**Cook Time:** 45 min.<br>
+**Total Time:** 65 min.<br>
+**Yield:** 4 servings<br> <br>
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Stove_top-green)](#)
 
 ## Ingredients
 - 1.5 tbsp oil (vegetable, canola)
 - 2 garlic cloves , minced
 - 2 tsp ginger , grated
-- ½ onion , finely chopped
+- &frac12; onion , finely chopped
 - 500g / 1lb chicken thighs, sliced (Note 1)
 - 2.5 tbsp curry powder (Note 2)
 - 270 ml / 1.25 cups coconut milk , full fat (9 oz) (Note 3)
 - 1.5 cups (375 ml) chicken stock low sodium
-- ½ tsp salt
-- 3/4 cup frozen peas
-- 1/4 cup coriander / cilantro leaves , chopped
+- &frac12; tsp salt
+- &frac34; cup frozen peas
+- &frac14; cup coriander / cilantro leaves , chopped
 
 ## Instructions
 

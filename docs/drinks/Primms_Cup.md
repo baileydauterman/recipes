@@ -1,8 +1,8 @@
 # Primm's Cup
 
 ## Ingredients
-- 2 ounces Pimm’s No. 1
-- ½ ounce lemon juice, freshly squeezed
+- 2 oz Pimm’s No. 1
+- &frac12; ounce lemon juice, freshly squeezed
 - Ginger ale, to top
 - Garnish: cucumber slice
 - Garnish: mint sprig

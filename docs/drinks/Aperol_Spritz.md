@@ -10,8 +10,8 @@ Learn how to make a classic Aperol spritz! These bubbly Italian cocktails are re
 
 Per cocktail
 - Ice
-- 3 ounces (1 part) Aperol
-- 3 ounces (1 part) dry Prosecco
+- 3 oz (1 part) Aperol
+- 3 oz (1 part) dry Prosecco
 - 1 ounce (a splash) club soda or unflavored sparkling water
 - Orange slice, for garnish
 

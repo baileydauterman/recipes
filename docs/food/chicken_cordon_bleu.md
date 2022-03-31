@@ -2,36 +2,43 @@
 
 4 Servings
 
-From [Aunt Bee's Recipies](https://auntbeesrecipes.com/2013/12/chicken-cordon-bleu-with-parmesan-cream-sauce.html)
+> From [Aunt Bee's Recipes](https://auntbeesrecipes.com/2013/12/chicken-cordon-bleu-with-parmesan-cream-sauce.html)
+
+> **Prep Time** 20 min.<br>
+**Cook Time:** 45 min.<br>
+**Total Time:** 65 min.<br>
+**Yield:** 8<br> <br>
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
 
 ## Ingredients
 For the Chicken
 - 2 Chicken Breast, halved and pounded thin (So 4 total pieces of meat)
 - leftover baked ham or your favorite good quality ham deli meat (Prosciutto is great)
 - Swiss Cheese
-- 3/4 cup all purpose flour
+- &frac34; cup all purpose flour
 - 1 tsp Lawry's seasoning salt
-- ½ tsp black pepper
+- &frac12; tsp black pepper
 - 1 egg
-- 2 TBSP milk
+- 2 tbsp milk
 - 1 cup Bread Crumbs
-- 2 TBSP Vegetable oil
-- 2 TBSP butter
+- 2 tbsp Vegetable oil
+- 2 tbsp butter
 
 For the Parmesan Cream Sauce
-- 2 TBSP butter
-- 2 TBSP all purpose flour
+- 2 tbsp butter
+- 2 tbsp all purpose flour
 - 1 cup milk
 - 1 tsp Garlic Powder
 - 1 chicken flavored Bouillon cube, crushed
-- 1 TBSP Dijon mustard
+- 1 tbsp Dijon mustard
 - 1 tsp Worcestershire sauce
-- ½ cup grated Parmesan
+- &frac12; cup grated Parmesan
 
 ## Instructions
 1. Preheat oven to 350 degrees. 
 2. Slice both chicken breast in half lengthwise, making 4 thinner cutlets. 
-3. Put each cutlet inside a freezer bag and flatten with a meat pounder or rolling pin until they are approximately 1/4 thick.
+3. Put each cutlet inside a freezer bag and flatten with a meat pounder or rolling pin until they are approximately &frac14; thick.
 4. Top each cutlet with a slice of ham and cheese – then roll up tightly, tuck in the ends and secure with toothpicks.
 5. In a shallow bowl, mix the flour, Lawry’s, and pepper together and set aside.
 6. Whisk the egg and milk together in another small bowl and set aside as well.

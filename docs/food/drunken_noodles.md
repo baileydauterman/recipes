@@ -3,14 +3,21 @@
 
 From [Delish Knowledge](https://www.delishknowledge.com/easy-vegan-drunken-noodles/)
 
-?> **Tip** Replace tofu with your favorite protein!
+> **Prep Time** 15 min.<br>
+**Cook Time:** 15 min.<br>
+**Total Time:** 30 min.<br>
+**Yield:** 4 servings<br> <br>
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Stove_top-green)](#)
+
+> :bulb: Replace tofu with your favorite protein!
 
 ## Ingredients
-- 1/4 cup soy sauce
-- 3 tablespoons lime juice
-- 1 tablespoon brown sugar
+- &frac14; cup soy sauce
+- 3 tbsps lime juice
+- 1 tbsp brown sugar
 - 2 teaspoons sriracha
-- 8 ounces rice noodles, I love the brown rice noodles from Lotus Foods
+- 8 oz rice noodles, I love the brown rice noodles from Lotus Foods
 - 3 teaspoons toasted sesame oil, divided
 - 1 package extra firm tofu [^1], drained, pressed and finely diced or crumbled.
 - White or yellow onion, sliced

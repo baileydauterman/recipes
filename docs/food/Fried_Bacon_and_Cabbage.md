@@ -14,7 +14,7 @@ From [Adventures of a Nurse](https://www.adventuresofanurse.com/southern-fried-c
 - 1 onion
 - 2 cloves chopped garlic
 - 1 tsp garlic powder
-- 1/2 tsp red pepper flakes
+- &frac12; tsp red pepper flakes
 - 1 tsp black pepper
 - 1 tsp salt
 

@@ -2,10 +2,10 @@
 
 
 ## Ingredients
-- 1 ounce (2 tablespoons) fresh lime juice
-- ½ ounce raspberry syrup (purchased or homemade*)
-- For a cocktail: 2 ounces gin (optional)
-- 4 ounces (½ cup) soda water
+- 1 ounce (2 tbsps) fresh lime juice
+- &frac12; ounce raspberry syrup (purchased or homemade*)
+- For a cocktail: 2 oz gin (optional)
+- 4 oz (&frac12; cup) soda water
 
 For serving: Ice (try clear ice), lime wedges, fresh raspberries
 

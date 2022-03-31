@@ -9,7 +9,7 @@ Servings 2 cocktails
 ## Ingredients
 
 - 6 medium fresh strawberries, hulled and quartered
-- 2 ½" thick circular slices of orange, rind removed and cut into bit sized pieces
+- 2 &frac12;" thick circular slices of orange, rind removed and cut into bit sized pieces
 - 8 oz bourbon, rye, or whiskey
 - ice for shaker and for serving
 - strawberry and orange slice for garnish (optional)

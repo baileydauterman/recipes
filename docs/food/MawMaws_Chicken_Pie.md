@@ -13,12 +13,12 @@ From: [Southern Living 1,001 Ways to Cook Southern: The Ultimate Treasury of Sou
 ## Ingredients
 
 - 4 cups chopped cooked chicken
-- 1 (10 3/4-oz.) can cream of chicken soup, undiluted
-- 1½ cups chicken broth
-- 2 tablespoons cornstarch
-- 1½ cups self-rising flour
+- 1 (10 &frac34;-oz.) can cream of chicken soup, undiluted
+- 1&frac12; cups chicken broth
+- 2 tbsps cornstarch
+- 1&frac12; cups self-rising flour
 - 1 cup buttermilk
-- ½ cup butter, melted
+- &frac12; cup butter, melted
 
 ## Instructions
 

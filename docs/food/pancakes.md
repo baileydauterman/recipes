@@ -1,8 +1,8 @@
 # Tony's Low Cal Pancakes
 
 ## Ingredients
-- ½ cup oatmeal flour
-- 1/4 cup all purpose flour
+- &frac12; cup oatmeal flour
+- &frac14; cup all purpose flour
 - 1 banana
 - 2 tbsp honey
 - 2/4 tsp baking powder

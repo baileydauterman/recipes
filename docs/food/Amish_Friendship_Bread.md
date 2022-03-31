@@ -1,8 +1,13 @@
 # Amish Friendship Bread Starter & Loaf
 
-From **Amish Heritage Cookbook** by Bevery Lewis
+> From **Amish Heritage Cookbook** by Bevery Lewis
 
-?> **Note from Bev** The original idea of this unique recipe was to share other starter at Baked bread with friends a family.
+> **Prep Time** 20 min.<br>
+**Cook Time:** 45 min.<br>
+**Total Time:** 65 min.<br>
+**Yield:** 8<br> <br>
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Snack-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
 
 
 ## Method 1: Covered glass or plastic container
@@ -18,23 +23,24 @@ From **Amish Heritage Cookbook** by Bevery Lewis
 1. Mix all ingredients together in a glass or plastic container.
 
 **Do not refrigerate.** Keep securely covered at room temperature from Day 1 through Day 10.
-1. Day 1: Make or receive starter.
-2. Day 2: Stir and cover- do not use a metal utensil to stir.
-3. Day 3: Stir.
-4. Day 4: Stir.
-5. Day 5: Add 1 c. each of flour, sugar, and milk.
-6. Day 6: Stir.
-7. Day 7: Stir.
-8. Day 8: Let stand- do not stir.
-9. Day 9: Let stand- do not stir.
-10. Day 10: Make Friendship Bread (see following recipe); do not stir or disturb until making bread.
-	
+- Day 1: Make or receive starter.
+- Day 2: Stir and cover- do not use a metal utensil to stir.
+- Day 3: Stir.
+- Day 4: Stir.
+- Day 5: Add 1 cup each of flour, sugar, and milk.
+- Day 6: Stir.
+- Day 7: Stir.
+- Day 8: Let stand- do not stir.
+- Day 9: Let stand- do not stir.
+- Day 10: Make Friendship Bread (see following recipe); do not stir or disturb until making bread.
+
+
 ## Method 2: Ziplock freezer bag
 
 Ingredients:
-- ½ cup flour (regular or unbleached)
-- ½ cup sugar (white granulated or raw)
-- ½ cup milk (store-bought or raw goat's milk)
+- &frac12; cup flour (regular or unbleached)
+- &frac12; cup sugar (white granulated or raw)
+- &frac12; cup milk (store-bought or raw goat's milk)
 
 Ingredients
 
@@ -42,16 +48,16 @@ Ingredients
 
 Follow the steps below. 
 Do not refrigerate; let sit at room temperature in a place where it can rise.
-1. Day 1: Make starter and put in sealed bag.
-2. Day 2: Squish bag to mix thoroughly.*
-3. Day 3: Squish bag to mix thoroughly.
-4. Day 4: Squish bag to mix thoroughly.
-5. Day 5: Squish bag to mix thoroughly.
-6. Day 6: Add 2 c. flour, 1 c. sugar, and 1 c. milk. Squish bag to mix thoroughly.
-7. Day 7: Squish bag and let air out--be careful that the zipper is clean before resealing. (Note: you may have to let air out before squishing bag.)
-8. Day 8: Squish bag and let air out--be careful that the zipper is clean before resealing. (Note: you may have to let air out before squishing bag.)
-9. Day 9: Squish bag and let air out--be careful that the zipper is clean before resealing. (Note: you may have to let air out before squishing bag.)
-10. Day 10: Make Friendship Bread (see following recipe); do not squish or disturb bag until making bread.
+- Day 1: Make starter and put in sealed bag.
+- Day 2: Squish bag to mix thoroughly.*
+- Day 3: Squish bag to mix thoroughly.
+- Day 4: Squish bag to mix thoroughly.
+- Day 5: Squish bag to mix thoroughly.
+- Day 6: Add 2 cup flour, 1 cup sugar, and 1 cup milk. Squish bag to mix thoroughly.
+- Day 7: Squish bag and let air out--be careful that the zipper is clean before resealing. (Note: you may have to let air out before squishing bag.)
+- Day 8: Squish bag and let air out--be careful that the zipper is clean before resealing. (Note: you may have to let air out before squishing bag.)
+- Day 9: Squish bag and let air out--be careful that the zipper is clean before resealing. (Note: you may have to let air out before squishing bag.)
+- Day 10: Make Friendship Bread (see following recipe); do not squish or disturb bag until making bread.
 
 
 Starter can be used to make approximately 4 cups of new starter.
@@ -74,21 +80,21 @@ Ingredients:
 
 - Cinnamon
 - Sugar
-- 1 c. oil
+- 1 cup oil
 - 3 large eggs
-- ½ c. milk
+- &frac12; cup milk
 - 1 tsp. vanilla
-- 2 c. flour
-- 1 c. sugar
-- 1½ tsp. baking powder
-- ½ tsp. salt
-- ½ tsp. baking soda
+- 2 cup flour
+- 1 cup sugar
+- 1&frac12; tsp. baking powder
+- &frac12; tsp. salt
+- &frac12; tsp. baking soda
 - 2 tsp. cinnamon
-- 1 large box of instant vanilla pudding (or ¾ c. [rounded]bulk instant vanilla pudding)
-- 1 c. baking raisins (or soak raisins 5 minutes in hot water, then drain well)
-- 1 c. flour
-- 1 c. sugar
-- 1 c. milk
+- 1 large box of instant vanilla pudding (or &frac34; cup [rounded]bulk instant vanilla pudding)
+- 1 cup baking raisins (or soak raisins 5 minutes in hot water, then drain well)
+- 1 cup flour
+- 1 cup sugar
+- 1 cup milk
 
 Instructions:
 
@@ -96,15 +102,15 @@ Instructions:
 2. In a small bowl, make a mixture of sugar and cinnamon. 
 3. Prepare two loaf pans, one Bundt pan, or a 9X13 baking dish by greasing the pans and coating with the cinnamon-sugar mixture, reserving some for topping. Set aside.
 (Note: Tin loaf pans are excellent for making Friendship Bread.)
-4. Combine oil, eggs, ½ c. milk, and vanilla in a large glass or non-metal bowl, mixing well. 
-5. Add 2 c. flour, 1 c. sugar, baking powder, salt, baking soda, cinnamon, pudding, and raisins to egg mixture; do not mix.
-6. In separate medium glass or nonmetal bowl, using wooden spoon, mix together 1 c. flour and 1 c. sugar. Gradually add 1 c. milk, keeping mixture smooth. 
+4. Combine oil, eggs, &frac12; cup milk, and vanilla in a large glass or non-metal bowl, mixing well. 
+5. Add 2 cup flour, 1 cup sugar, baking powder, salt, baking soda, cinnamon, pudding, and raisins to egg mixture; do not mix.
+6. In separate medium glass or nonmetal bowl, using wooden spoon, mix together 1 cup flour and 1 cup sugar. Gradually add 1 cup milk, keeping mixture smooth. 
 7. Add Amish Friendship Bread Starter from container or plastic bag, mixing in gently with a wooden spoon.
-8. Add approximately 1 cup of the resulting mixture into the egg/flour/raisin mixture. With a wooden spoon, mix egg/flour/raisin/starter mixture together well.
+8. Add approximately 1 cup  of the resulting mixture into the egg/flour/raisin mixture. With a wooden spoon, mix egg/flour/raisin/starter mixture together well.
 9. Pour batter into the prepared pans; sprinkle reserved cinnamon-sugar mixture on top. 
 10. Bake at 325 degrees for approximately 1 hour or until toothpick inserted in center comes out clean. Do not over-bake. 
 11. Allow to cool in pans. This bread freezes well.
-12. Of the remaining new starter mixture, put 1 c. each into three plastic or glass containers or gallon ziplock freezer bags. 
+12. Of the remaining new starter mixture, put 1 cup each into three plastic or glass containers or gallon ziplock freezer bags. 
 13. Keep one starter for yourself and give two starters to friends with the instructions for Amish Friendship Bread Starter (today is Day 1), or make additional batches of Friendship Bread to give away.
 
 

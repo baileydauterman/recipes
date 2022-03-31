@@ -3,18 +3,18 @@
 From Carter
 
 ## Ingredients
-- 2-2 ⅓ cups all-purpose flour OR bread flour divided (250-295g)
-- 1 packet instant yeast (2 ¼ teaspoon)
-- 1 ½ teaspoons sugar
-- ¾ teaspoon salt
-- ⅛-¼ teaspoon garlic powder and/or dried basil leaves optional
+- 2-2 &frac13; cups all-purpose flour OR bread flour divided (250-295g)
+- 1 packet instant yeast (2 &frac14; teaspoon)
+- 1 &frac12; teaspoons sugar
+- &frac34; teaspoon salt
+- ⅛-&frac14; teaspoon garlic powder and/or dried basil leaves optional
 - 2 Tablespoons olive oil + additional
-- ¾ cup warm water (175ml)
+- &frac34; cup warm water (175ml)
 
 ## Instructions
 1. Combine 1 cup (125g) of flour, instant yeast, sugar, and salt in a large bowl. If desired, add garlic powder and dried basil at this point as well.
 2. Add olive oil and warm water and use a wooden spoon to stir well very well.
-3. Gradually add another 1 cup (125g) of flour. Add any additional flour as needed (I've found that sometimes I need as much as an additional ⅓ cup), stirring until the dough is forming into a cohesive, elastic ball and is beginning to pull away from the sides of the bowl (see video above recipe for visual cue). The dough will still be slightly sticky but still should be manageable with your hands.
+3. Gradually add another 1 cup (125g) of flour. Add any additional flour as needed (I've found that sometimes I need as much as an additional &frac13; cup), stirring until the dough is forming into a cohesive, elastic ball and is beginning to pull away from the sides of the bowl (see video above recipe for visual cue). The dough will still be slightly sticky but still should be manageable with your hands.
 4. Drizzle a separate, large, clean bowl generously with olive oil and use a pastry brush to brush up the sides of the bowl.
 5. Lightly dust your hands with flour and form your pizza dough into a round ball and transfer to your olive oil-brushed bowl. Use your hands to roll the pizza dough along the inside of the bowl until it is coated in olive oil, then cover the bowl tightly with plastic wrap and place it in a warm place.
 6. Allow dough to rise for 30 minutes or until doubled in size. If you intend to bake this dough into a pizza, I also recommend preheating your oven to 425F (215C) at this point so that it will have reached temperature once your pizza is ready to bake.

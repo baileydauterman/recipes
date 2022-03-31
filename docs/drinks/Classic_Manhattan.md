@@ -1,7 +1,7 @@
 # Manhattan
 
 ## Ingredients
-- 2 ounces rye whiskey
+- 2 oz rye whiskey
 - 1 ounce sweet vermouth
 - 2 dashes Angostura bitters
 - 1 dash orange bitters

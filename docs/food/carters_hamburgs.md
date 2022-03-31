@@ -1,26 +1,33 @@
 # Argentine-Style Chimichurri Burger
 
-From Carter
+> From Carter
+
+> **Prep Time** 20 min.<br>
+**Cook Time:** 45 min.<br>
+**Total Time:** 65 min.<br>
+**Yield:** 8<br> <br>
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Lunch/Dinner-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Grill-green)](#)
 
 ## Ingrediants
-- 2 tablespoon extra vigrin olive oil
-- ½ cup finely chopped yellow onion
-- 2 tablespoon finely chopped garlic
-- 1 tablespoon fine chopped jalepeno
+- 2 tbsp extra vigrin olive oil
+- &frac12; cup finely chopped yellow onion
+- 2 tbsp finely chopped garlic
+- 1 tbsp fine chopped jalepeno
 - salt and pepper
-- 1 ½ pound of ground beed
-- 1 ½ teaspoon of ground cumin
-- 1 ½ teaspoon dried oregano
-- 1/4 cup fresh cilantro
+- 1 &frac12; pound of ground beed
+- 1 &frac12; teaspoon of ground cumin
+- 1 &frac12; teaspoon dried oregano
+- &frac14; cup fresh cilantro
 - Pita pockets
 - Optional Toppings: lettuce red onion
 
 ### Chimichurri Sauce
 - 1 cup fresh parsley
 - 1 cup fresh mint leaves
-- 1/3 cup extra sus olive oil
-- 1/4 cup lime juice
-- 2 tablespoon coarse cut garlic
+- &frac13; cup extra sus olive oil
+- &frac14; cup lime juice
+- 2 tbsp coarse cut garlic
 - 1 teaspoon coarse cut jalepeno ( i usually add more for extra spice)
 - 1 teaspoon ground cumin
 - 1 teasoon kosher salt
