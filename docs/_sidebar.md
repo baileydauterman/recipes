@@ -1,7 +1,4 @@
 <!-- docs/_sidebar.md -->
-
-- [Home](/)
-
 - Food
     - [Chicken Curry](chicken_curry.md)
     - [Shrimp Scampi](shrimp_scampi.md)
