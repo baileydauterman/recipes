@@ -24,7 +24,7 @@ From [recipetineats](https://www.recipetineats.com/chicken-curry/)
 5. Add peas and salt. Cook for a further 2 minutes, then taste to see if it needs more salt. Garnish with coriander.
 6. Serve over rice, noodles or mashed potato!
 
-## Recipe Notes:
+## Recipe Notes
 1. Chicken -skinless boneless thigh is best because it stays juicy even after the required simmering time. 
     - Chicken breast - sprinkle with 2 tsp extra curry powder plus pinch of salt and pepper. Sear first in a bit of oil then remove (no need to cook through). Follow recipe - fry off curry with just the onion. Add breast back in towards end of sauce simmering, just to finish cooking.
     - Shrimp/prawns or fish pieces - as above with breast.

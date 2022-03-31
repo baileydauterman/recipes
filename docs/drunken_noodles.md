@@ -1,4 +1,5 @@
-# Easy Vegan Drunken Noodles (pad kee mao)
+# Easy Vegan Drunken Noodles
+## Pad Kee Mao
 
 From [Delish Knowledge](https://www.delishknowledge.com/easy-vegan-drunken-noodles/)
 
