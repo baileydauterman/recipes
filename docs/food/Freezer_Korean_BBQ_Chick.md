@@ -1,9 +1,15 @@
 # Korean BBQ Chicken
 
-Top with sesame seeds and serve with rice.
-Yields: 6 servings
+> From **Asian Crockpot Freezer Meals**
 
-From Asian Crockpot Freezer Meals
+> **Prep Time** 15 min.<br>
+**Cook Time:** 20 min.<br>
+**Total Time:** 35 min.<br>
+**Yield:** 6 servings<br> <br>
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Snack-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
+
+> :bulb: Top with sesame seeds and serve with rice.
 
 ## Ingredients
 - 2 lbs boneless skinless chicken thighs
