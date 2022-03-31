@@ -3,13 +3,13 @@
 From Carter
 
 ## Ingredients
-- 2-2 ⅓ cups all-purpose flour OR bread flour¹ divided (250-295g)
-- 1 packet instant yeast² (2 ¼ teaspoon)
+- 2-2 ⅓ cups all-purpose flour OR bread flour divided (250-295g)
+- 1 packet instant yeast (2 ¼ teaspoon)
 - 1 ½ teaspoons sugar
 - ¾ teaspoon salt
 - ⅛-¼ teaspoon garlic powder and/or dried basil leaves optional
 - 2 Tablespoons olive oil + additional
-- ¾ cup warm water³ (175ml)
+- ¾ cup warm water (175ml)
 
 ## Instructions
 1. Combine 1 cup (125g) of flour, instant yeast, sugar, and salt in a large bowl. If desired, add garlic powder and dried basil at this point as well.
