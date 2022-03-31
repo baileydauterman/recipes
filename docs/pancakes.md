@@ -5,7 +5,7 @@
 - 1/4 cup all purpose flour
 - 1 banana
 - 2 tbsp honey
-- 2/4 tbsp baking powder
+- 2/4 tsp baking powder
 - drizzle of olive oil
 - pinch of salt
 
