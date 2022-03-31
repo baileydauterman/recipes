@@ -1,6 +1,7 @@
 # Fried Chicken Sandwiches
 
 Makes 4 sandwiches
+
 From [Culinary Bro-Down Cookbook](https://www.amazon.com/Culinary-Bro-Down-Cookbook-Josh-Scherer/dp/145559542X/ref=asc_df_145559542X_nodl/?tag=hyprod-20&linkCode=df0&hvadid=312075063269&hvpos=&hvnetw=g&hvrand=13271318346926754124&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9016293&hvtargid=pla-570529191041&psc=1)
 
 The first step you need to take for this recipe is to steel your nerves an prepare to lie. You are going to tell people that you made the bacon-fat mayo from scratch. You should probably call it aioli. I've made it from scratch before, emulsifying the melted bacon fat into egg yolks over a double boiler and all that, but I was batting like .350 on not completely fucking it up and soon decided it wasn't worth it. Now I just mix bacon and bacon fat and some other shit into store-bought mayo and then lie to people and tell them I made it. I suggest you do the same.
