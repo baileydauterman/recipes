@@ -22,6 +22,7 @@ foreach ($recipe in $recipes) {
     $content = $content.Replace("pounds", "lbs")
 
     $content = $content.Replace("tablespoon", "tbsp")
+    $content = $content.Replace("tablespoons", "tbsp")
     $content = $content.Replace("Tbsp", "tbsp")
     $content = $content.Replace("TBSP", "tbsp")
 

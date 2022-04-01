@@ -6,8 +6,9 @@
 **Cook Time:** 20 min.<br>
 **Total Time:** 35 min.<br>
 **Yield:** 6 servings<br> <br>
-[![Breakfast](https://img.shields.io/badge/Meal_Type-Snack-blue)](#) &nbsp;&nbsp;
-[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
+[![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
+[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#) &nbsp;&nbsp;
+[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-black)](#)
 
 > :bulb: Top with sesame seeds and serve with rice.
 
