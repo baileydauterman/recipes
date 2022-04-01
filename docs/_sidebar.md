@@ -13,7 +13,7 @@
     - [Southern Fried Cabbage and Bacon](food/Fried_Bacon_and_Cabbage.md)
     - [Grilled Pork Chops](food/Grilled_Pork_Chops.md)
     - [Hobo Foil Packets](food/Hobo_Packs.md)
-    - [](food/indian_butter_chicken.md)
+    - [Indian Butter Chicken](food/indian_butter_chicken.md)
     - [Sweet Jalapeno Coleslaw](food/Jalapeno_Slaw.md)
     - [Japanese Beef Teriyaki](food/japanese_beef_teriyaki.md)
     - [Korean BBQ Chicken](food/korean_bbq_chicken.md)

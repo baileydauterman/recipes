@@ -1,4 +1,3 @@
-
 # Indian Butter Chicken
 
 > From **Asian Crockpot Freezer Meals**

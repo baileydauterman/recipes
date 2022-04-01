@@ -1,3 +1,4 @@
+# Get all files and header of file
 $data = Get-ChildItem -Recurse -Filter *.md | ForEach-Object {
     [PSCustomObject]@{
         Path = $_.FullName.Replace("\", "/").Replace("D:/GitHub/recipes/docs/", "")
@@ -5,17 +6,31 @@ $data = Get-ChildItem -Recurse -Filter *.md | ForEach-Object {
     }
 }
 
-Write-Host "- Food"
+# remove all the current sidebar data
+Clear-Content _sidebar.md
+
+# function to clean the code a bit
+function Add-ToSidebar($string) {
+    Add-Content -Path _sidebar.md -Value $string
+}
+
+# add header
+Add-ToSidebar "<!-- docs/_sidebar.md -->"
+
+# add food section
+Add-ToSidebar "- Food"
 $data | Where-Object Path -match "food/" | ForEach-Object {
-    Write-Host "    - [$($_.Title)]($($_.Path))"
+    Add-ToSidebar "    - [$($_.Title)]($($_.Path))"
 }
 
-Write-Host "- Drinks"
+# add drinks section
+Add-ToSidebar "- Drinks"
 $data | Where-Object Path -match "drinks/" | ForEach-Object {
-    Write-Host "    - [$($_.Title)]($($_.Path))"
+    Add-ToSidebar "    - [$($_.Title)]($($_.Path))"
 }
 
-Write-Host "- Desserts"
+# add desserts section
+Add-ToSidebar "- Desserts"
 $data | Where-Object Path -match "desserts/" | ForEach-Object {
-    Write-Host "    - [$($_.Title)]($($_.Path))"
+    Add-ToSidebar "    - [$($_.Title)]($($_.Path))"
 }
