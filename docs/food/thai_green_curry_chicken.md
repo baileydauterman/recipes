@@ -11,6 +11,7 @@
 [![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-black)](#)
 
 > :bulb: Serve with rice.
+
 > :bulb: Shrimp Option: Replace chicken breasts with two dozen raw shrimp. Freeze shrimp in a separate plastic freezer bag and store in the refrigerator while cooking other ingredients in the crockpot. Add the shrimp to the crockpot the last 30 minutes of  cooking or continue to cook until the shrimp is opaque and cooked through.
 
 ## Ingredients
