@@ -1,5 +1,12 @@
 # Kentucky Hot Brown Cornbread Skillet
 
+![Prep Time](https://img.shields.io/badge/Prep_Time-15_min.-blue) &nbsp;&nbsp;
+![Cook Time](https://img.shields.io/badge/Cook_Time-20_min.-blue) &nbsp;&nbsp;
+![Total Time](https://img.shields.io/badge/Total_Time-35_min.-blue) &nbsp;&nbsp;
+![Yield](https://img.shields.io/badge/Yield-4_servings-blue) &nbsp;&nbsp;
+
+![Category](https://img.shields.io/badge/Category-Snack-blue) &nbsp;&nbsp;
+![Oven](https://img.shields.io/badge/Cooking_Method-Stovetop-blue)
 
 > **Prep Time** 15 min.<br>
 **Cook Time:** 20 min.<br>
@@ -9,6 +16,7 @@
 [![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
 
 # Ingredients
+
 - (6 oz) package country or buttermilk cornbread mix 
 - &frac12; cup canned French fried onions 
 - &frac12; cup milk large egg, lightly beaten 
@@ -27,6 +35,7 @@
 - Freshly grated Parmesan cheese (optional)
 
 # Instructions
+
 1. Preheat oven to 425°. Generously grease a 10-inch cast-iron skillet, and heat in a 425° oven 5 minutes. 
 2. Stir together cornbread mix and next 3 ingredients, and spoon evenly into hot skillet. 
 3. Bake at 425° for 8 to 10 minutes or just until light golden brown and set. 

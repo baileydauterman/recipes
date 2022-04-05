@@ -1,15 +1,17 @@
 # Chicken Curry
 
-> From [recipetineats](https://www.recipetineats.com/chicken-curry/)
+![Prep Time](https://img.shields.io/badge/Prep_Time-8_min.-blue) &nbsp;&nbsp;
+![Cook Time](https://img.shields.io/badge/Cook_Time-20_min.-blue) &nbsp;&nbsp;
+![Total Time](https://img.shields.io/badge/Total_Time-28_min.-blue) &nbsp;&nbsp;
+![Yield](https://img.shields.io/badge/Yield-4_servings-blue) &nbsp;&nbsp;
 
-> **Prep Time** 20 min.<br>
-**Cook Time:** 45 min.<br>
-**Total Time:** 65 min.<br>
-**Yield:** 4 servings<br> <br>
-[![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
-[![Oven](https://img.shields.io/badge/Cooking_Method-Stove_top-green)](#)
+![Category](https://img.shields.io/badge/Category-Dinner-blue) &nbsp;&nbsp;
+![Oven](https://img.shields.io/badge/Cooking_Method-Stovetop-blue)
+
+> From **[recipetineats](https://www.recipetineats.com/chicken-curry/)**
 
 ## Ingredients
+
 - 1.5 tbsp oil (vegetable, canola)
 - 2 garlic cloves , minced
 - 2 tsp ginger , grated
@@ -32,7 +34,8 @@
 6. Serve over rice, noodles or mashed potato!
 
 ## Recipe Notes
-1. Chicken -skinless boneless thigh is best because it stays juicy even after the required simmering time. 
+
+1. Chicken -skinless boneless thigh is best because it stays juicy even after the required simmering time.
     - Chicken breast - sprinkle with 2 tsp extra curry powder plus pinch of salt and pepper. Sear first in a bit of oil then remove (no need to cook through). Follow recipe - fry off curry with just the onion. Add breast back in towards end of sauce simmering, just to finish cooking.
     - Shrimp/prawns or fish pieces - as above with breast.
     - Other proteins (beef, turkey, lamb, pork) - use a quick cooking cut that's tender and juicy, slice or dice. Follow chicken breast steps.
