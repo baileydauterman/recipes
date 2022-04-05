@@ -1,11 +1,12 @@
 # Biscuits and Gravy with Sausage and Egg Breakfast Casserole
 
-> **Prep Time** 20 min.<br>
-**Cook Time:** 45 min.<br>
-**Total Time:** 65 min.<br>
-**Yield:** 8<br> <br>
-[![Breakfast](https://img.shields.io/badge/Meal_Type-Breakfast-blue)](#) &nbsp;&nbsp;
-[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
+![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-blue) &nbsp;&nbsp;
+![Cook Time](https://img.shields.io/badge/Cook_Time-45_min.-blue) &nbsp;&nbsp;
+![Total Time](https://img.shields.io/badge/Total_Time-65_min.-blue) &nbsp;&nbsp;
+![Yield](https://img.shields.io/badge/Yield-8_servings-blue) &nbsp;&nbsp;
+
+![Category](https://img.shields.io/badge/Category-Snack-blue) &nbsp;&nbsp;
+![Oven](https://img.shields.io/badge/Cooking_Method-Oven-blue)
 
 ## Ingredients
 
@@ -18,6 +19,7 @@
 - salt and pepper to taste
 
 ## Instructions
+
 1. Preheat oven to 350. Grease a 13×9 pan
 2. Brown the sausage in skillet and drain thoroughly.
 3. Cut biscuit dough into 1″ pieces, and line the bottom of the pan.

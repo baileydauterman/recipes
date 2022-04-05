@@ -1,17 +1,18 @@
 # Babbish Bread
 
-> From [Binging with Babbish](https://www.bingingwithbabish.com/recipes/201&frac78;/22/worldsgreatestsandwich) <br>
-Video [World's Greatest Sandwich from Spanglish](https://www.youtube.com/watch?v=A_l8_C-EO38)
+![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-blue) &nbsp;&nbsp;
+![Cook Time](https://img.shields.io/badge/Cook_Time-45_min.-blue) &nbsp;&nbsp;
+![Total Time](https://img.shields.io/badge/Total_Time-65_min.-blue) &nbsp;&nbsp;
+![Yield](https://img.shields.io/badge/Yield-8_servings-blue) &nbsp;&nbsp;
 
-> **Prep Time** 20 min.<br>
-**Cook Time:** 45 min.<br>
-**Total Time:** 65 min.<br>
-**Yield:** 1 loaf<br> <br>
-[![Breakfast](https://img.shields.io/badge/Meal_Type-Snack-blue)](#) &nbsp;&nbsp;
-[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
+![Category](https://img.shields.io/badge/Category-Snack-blue) &nbsp;&nbsp;
+![Oven](https://img.shields.io/badge/Cooking_Method-Oven-blue)
 
+> From **[Binging with Babbish](https://www.bingingwithbabish.com/recipes/201&frac78;/22/worldsgreatestsandwich)** <br>
+Video **[World's Greatest Sandwich from Spanglish](https://www.youtube.com/watch?v=A_l8_C-EO38)**
 
 ## Ingredients
+
 - 1 cup room temperature water
 - &frac12; tsp instant yeast
 - 5 oz whole wheat flour (approximately 1 &frac14; cup)
@@ -22,7 +23,8 @@ Video [World's Greatest Sandwich from Spanglish](https://www.youtube.com/watch?v
 - 2 tbsp honey
 
 ## Instructions
-1. Wake up super early because that’s the first rule of bread baking. In a bowl, add yeast to room temperature water and combine. Allow yeast to dissolve. Add 5 oz of bread flour and whole wheat flour. Combine until a sloppy dough formsCover the dough and allow to sit at room temperature for 5-16 hours. You can get some sleep in the meantime.
+
+1. Wake up super early because that’s the first rule of bread baking. In a bowl, add yeast to room temperature water and combine. Allow yeast to dissolve. Add 5 oz of bread flour and whole wheat flour. Combine until a sloppy dough forms. Cover the dough and allow to sit at room temperature for 5-16 hours. You can get some sleep in the meantime.
 2. Add the rest of the bread flour, additional room temperature water, rye flour, and honey to the dough. Mix lightly by hand. Then, using a stand mixer with a kneading hook, allow dough to be kneaded for 15 minutes on a low speed.
 3. Lightly oil a bowl. Dump the kneaded dough into the bowl, pat it down with your fingers, and cover. Allow dough to rise for 2 hours or until it has tripled in size.
 4. Heavily flour your workspace. Dump the dough out onto the workspace. Pull the edges into the center of the dough to create a smooth top for your bread.
