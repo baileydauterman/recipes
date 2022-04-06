@@ -29,7 +29,7 @@
   - [Sweet and Sour Pork](food/sweet_and_sour_pork.md)
   - [Lebanese Sweet Potato Lentil Chili](food/sweet_potato_lentil_chili.md)
   - [Thai Green Curry Chicken](food/thai_green_curry_chicken.md)
-- Drinks
+- [Drinks](#)
   - [Classic Aperol Spritz](drinks/Aperol_Spritz.md)
   - [Manhattan](drinks/Classic_Manhattan.md)
   - [Classic Old Fashioned](drinks/Classic_Old_Fashoned.md)
@@ -42,5 +42,5 @@
   - [Summer bourbon cocktail with strawberry and orange](drinks/Summer_Bourbon_Cocktail.md)
   - [Wavesplitter](drinks/wavesplitter.md)
   - [Weinschorle (German Wine Spritzer)](drinks/Weinschorle.md)
-- Desserts
+- [Desserts](#)
   - [White Chocolate Travelers](desserts/choco_travelers.md)
