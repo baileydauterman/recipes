@@ -14,13 +14,13 @@
 
 ## Ingredients
 
-- 2 pounds boneless skinless chicken thighs, cut into bite-sized pieces
-- 2 tablespoons unsalted butter, chopped
+- 2 lbs boneless skinless chicken thighs, cut into bite-sized pieces
+- 2 tbsps unsalted butter, chopped
 - 2 teaspoons onion powder
 - Two 15oz cans tomato sauce
 - 16oz heavy whipping cream (you can substitute half and half)
-- 2 tablespoons garam masala
-- 2 tablespoons curry powder
+- 2 tbsps garam masala
+- 2 tbsps curry powder
 - 4 cloves garlic, minced
 
 ## Instructions

@@ -15,11 +15,11 @@
 > :bulb: Shrimp Option: Replace chicken breasts with two dozen raw shrimp. Freeze shrimp in a separate plastic freezer bag and store in the refrigerator while cooking other ingredients in the crockpot. Add the shrimp to the crockpot the last 30 minutes of  cooking or continue to cook until the shrimp is opaque and cooked through.
 
 ## Ingredients
-- 2 pounds boneless skinless chicken breasts, cut into bite-sized pieces
+- 2 lbs boneless skinless chicken breasts, cut into bite-sized pieces
 - Two 15oz cans unsweetened coconut milk
-- 3 tablespoons jarred green curry paste
+- 3 tbsps jarred green curry paste
 - 1 small yellow onion, diced (1 cup)
-- 1 tablespoon low sodium soy sauce
+- 1 tbsp low sodium soy sauce
 - 8oz can bamboo shoots sliced, drained
 - 1 red bell pepper, sliced
 - 8oz fresh green beans, chopped (about 2 cups)

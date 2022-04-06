@@ -14,16 +14,16 @@
 > :bulb: Serve with rice.
 
 ## Ingredients
-- 2 pounds boneless thick-cut pork loin, cut into bite-sized pieces
+- 2 lbs boneless thick-cut pork loin, cut into bite-sized pieces
 - 1 green bell pepper, chopped
 - 8oz can sliced water chestnuts, drained
-- 2 tablespoons cornstarch
+- 2 tbsps cornstarch
 - 20oz can pineapple chunks in 100% juice, undrained
-- 1/4 cup light brown sugar
-- 3 tablespoons apple cider vinegar
-- 3 tablespoons low sodium soy sauce
+- &frac14; cup light brown sugar
+- 3 tbsps apple cider vinegar
+- 3 tbsps low sodium soy sauce
 - 4 cloves garlic, minced
-- 1-inch fresh ginger root, peeled and grated (1 tablespoon)
+- 1-inch fresh ginger root, peeled and grated (1 tbsp)
 
 ## Instructions
 - 1 gallon-sized plastic freezer bag

@@ -14,13 +14,13 @@
 
 ## Ingredients
 1 pound boneless skinless chicken breasts
-3/4 cup dry enriched parboiled long grain rice (you can substitute dry white or
+&frac34; cup dry enriched parboiled long grain rice (you can substitute dry white or
 brown rice that is not parboiled for a thicker, porridge-like consistency)
-1-inch fresh ginger root, peeled and grated (1 tablespoon)
+1-inch fresh ginger root, peeled and grated (1 tbsp)
 1 small yellow onion, diced (1 cup)
-1/2 pound carrots (about 4 medium-sized), diced
-2 tablespoons low sodium soy sauce
-1 tablespoon sesame oil
+&frac12; pound carrots (about 4 medium-sized), diced
+2 tbsps low sodium soy sauce
+1 tbsp sesame oil
 4 cloves garlic, minced
 64oz low sodium chicken broth (8 cups) (not needed until day of cooking)
 

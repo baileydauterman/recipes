@@ -13,16 +13,16 @@
 > :bulb: Serve with rice.
 
 ## Ingredients
-- 2 pounds beef top sirloin steak, thinly sliced
+- 2 lbs beef top sirloin steak, thinly sliced
 - 1 large green pepper, sliced
-- 1/2 cup low sodium soy sauce
-- 1/4 cup rice wine vinegar
-- 1/4 cup light brown sugar
+- &frac12; cup low sodium soy sauce
+- &frac14; cup rice wine vinegar
+- &frac14; cup light brown sugar
 - 4 cloves garlic, minced
-- 1-inch fresh ginger root, peeled and grated (1 tablespoon)
-- 1 tablespoon cornstarch
+- 1-inch fresh ginger root, peeled and grated (1 tbsp)
+- 1 tbsp cornstarch
 - 1 teaspoon onion powder
-- 1/4 cup sesame seeds
+- &frac14; cup sesame seeds
 
 ## Materials
 - 1 gallon-sized plastic freezer bag

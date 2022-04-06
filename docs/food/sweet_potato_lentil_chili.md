@@ -13,7 +13,7 @@
 > :bulb: Top with crumbled feta cheese and fresh parsley. Serve with pita bread.
 
 ## Ingredients
-- 1/2 cup dried lentils
+- &frac12; cup dried lentils
 - 15oz can kidney beans, drained and rinsed
 - 15oz can chickpeas, drained and rinsed
 - 2 cups chicken broth (you can substitute vegetable broth to make this recipe
@@ -21,7 +21,7 @@
 - 28oz can diced tomatoes, undrained
 - 1 large sweet potato (1 pound), peeled and cubed
 - 4 cloves garlic, minced
-- 1 tablespoon curry powder
+- 1 tbsp curry powder
 - 2 teaspoons chili powder
 - 5oz fresh baby spinach
 ## Materials
