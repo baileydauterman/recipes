@@ -8,7 +8,7 @@
 **Yield:** 6 servings<br> <br>
 [![Breakfast](https://img.shields.io/badge/Meal_Type-Snack-blue)](#) &nbsp;&nbsp;
 [![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#) &nbsp;&nbsp;
-[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-black)](#)
+[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-2451ba)](#)
 
 > :bulb: Serve with rice.
 
@@ -16,7 +16,7 @@
 
 - 2 lbs boneless skinless chicken thighs, cut into bite-sized pieces
 - 2 tbsps unsalted butter, chopped
-- 2 teaspoons onion powder
+- 2 tsps onion powder
 - Two 15oz cans tomato sauce
 - 16oz heavy whipping cream (you can substitute half and half)
 - 2 tbsps garam masala

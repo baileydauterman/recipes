@@ -8,7 +8,7 @@
 **Yield:** 6 servings<br> <br>
 [![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
 [![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#) &nbsp;&nbsp;
-[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-black)](#)
+[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-2451ba)](#)
 
 > :bulb: Serve with rice.
 
@@ -21,7 +21,7 @@
 - 4 cloves garlic, minced
 - 1-inch fresh ginger root, peeled and grated (1 tbsp)
 - 1 tbsp cornstarch
-- 1 teaspoon onion powder
+- 1 tsp onion powder
 - &frac14; cup sesame seeds
 
 ## Materials

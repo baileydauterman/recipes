@@ -8,7 +8,7 @@
 **Yield:** 6 servings<br> <br>
 [![Breakfast](https://img.shields.io/badge/Meal_Type-Snack-blue)](#) &nbsp;&nbsp;
 [![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#) &nbsp;&nbsp;
-[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-black)](#)
+[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-2451ba)](#)
 
 
 > :bulb: Serve with rice.

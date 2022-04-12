@@ -1,19 +1,9 @@
 # Kentucky Hot Brown Cornbread Skillet
 
-![Prep Time](https://img.shields.io/badge/Prep_Time-15_min.-blue) &nbsp;&nbsp;
-![Cook Time](https://img.shields.io/badge/Cook_Time-20_min.-blue) &nbsp;&nbsp;
-![Total Time](https://img.shields.io/badge/Total_Time-35_min.-blue) &nbsp;&nbsp;
-![Yield](https://img.shields.io/badge/Yield-4_servings-blue) &nbsp;&nbsp;
-
-![Category](https://img.shields.io/badge/Category-Snack-blue) &nbsp;&nbsp;
-![Oven](https://img.shields.io/badge/Cooking_Method-Stovetop-blue)
-
-> **Prep Time** 15 min.<br>
-**Cook Time:** 20 min.<br>
-**Total Time:** 35 min.<br>
-**Yield:** 4 servings<br> <br>
-[![Breakfast](https://img.shields.io/badge/Meal_Type-Snack-blue)](#) &nbsp;&nbsp;
-[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#)
+|  |  |  |
+| ----------- | ----------- | ----------- |
+| ![Prep Time](https://img.shields.io/badge/Prep_Time-15_min.-2451ba) | ![Cook Time](https://img.shields.io/badge/Cook_Time-20_min.-2451ba) | ![Total Time](https://img.shields.io/badge/Total_Time-35_min.-2451ba)
+| ![Category](https://img.shields.io/badge/Category-Snack-2451ba) | ![Yield](https://img.shields.io/badge/Yield-4_servings-2451ba) | ![Oven](https://img.shields.io/badge/Cooking_Method-Oven-2451ba)
 
 # Ingredients
 

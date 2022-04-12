@@ -1,12 +1,9 @@
 # Amish Friendship Bread Starter & Loaf
 
-[![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-black)](#) &nbsp;&nbsp;
-[![Cook Time](https://img.shields.io/badge/Cook_Time-45_min.-black)](#) &nbsp;&nbsp;
-[![Total Time](https://img.shields.io/badge/Total_Time-65_min.-black)](#) &nbsp;&nbsp;
-[![Yield](https://img.shields.io/badge/Yield-8_servings-black)](#) &nbsp;&nbsp;
-
-[![Category](https://img.shields.io/badge/Category-Snack-black)](#) &nbsp;&nbsp;
-[![Oven](https://img.shields.io/badge/Cooking_Method-Oven-black)](#)
+|  |  |  |
+| ----------- | ----------- | ----------- |
+| ![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-2451ba) | ![Cook Time](https://img.shields.io/badge/Cook_Time-45_min.-2451ba) | ![Total Time](https://img.shields.io/badge/Total_Time-65_min.-2451ba)
+| ![Category](https://img.shields.io/badge/Category-Snack-2451ba) | ![Yield](https://img.shields.io/badge/Yield-8_servings-2451ba) | ![Oven](https://img.shields.io/badge/Cooking_Method-Oven-2451ba)
 
 > From **Amish Heritage Cookbook** by Bevery Lewis
 

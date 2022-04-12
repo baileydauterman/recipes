@@ -2,7 +2,7 @@
 
 In here you will find a plethora of food recipes, to inclue:
 - [Amish Friendship Bread Starter & Loaf](food/Amish_Friendship_Bread.md)
-- [Babbish Bread](food/babish_bread.md)
+- [Babish Bread](food/babish_bread.md)
 - [Biscuits and Gravy with Sausage and Egg Breakfast Casserole](food/Breakfast_Casserole.md)
 - [Cajun Shrimp Pasta](food/cajun_shrimp_pasta.md)
 - [Argentine-Style Chimichurri Burger](food/carters_hamburgs.md)
@@ -10,7 +10,7 @@ In here you will find a plethora of food recipes, to inclue:
 - [Chicken Curry](food/chicken_curry.md)
 - [Chicken Parm Stuffed Peppers](food/chicken_stuffed_peppers.md)
 - [Kentucky Hot Brown Cornbread Skillet](food/cornbread_skillet.md)
-- [Easy Vegan Drunken Noodles](food/drunken_noodles.md)
+- [Pad Kee Mao (Drunken Noodles)](food/drunken_noodles.md)
 - [Fried Chicken Sandwiches](food/fchicken_sandwich.md)
 - [Southern Fried Cabbage and Bacon](food/Fried_Bacon_and_Cabbage.md)
 - [Grilled Pork Chops](food/Grilled_Pork_Chops.md)
@@ -27,6 +27,7 @@ In here you will find a plethora of food recipes, to inclue:
 - [Shredded Chicken Fajitas](food/shredded_chicken_fajitas.md)
 - [Shrimp Scampi](food/shrimp_scampi.md)
 - [Singaporean Chicken Rice Stew](food/singaporean_chicken_rice_stew.md)
+- [One-Pot Spicy Chicken Riggies](food/Spicy_Chicken_Riggies.md)
 - [Sweet and Sour Pork](food/sweet_and_sour_pork.md)
 - [Lebanese Sweet Potato Lentil Chili](food/sweet_potato_lentil_chili.md)
 - [Thai Green Curry Chicken](food/thai_green_curry_chicken.md)

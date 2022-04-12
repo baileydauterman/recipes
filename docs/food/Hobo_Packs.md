@@ -17,10 +17,10 @@ From [Chelsea's Messy Apron](https://www.chelseasmessyapron.com/hobo-foil-packet
 - 2 cups (3-4 large; 221g) thinly sliced carrots
 - 1 large (223g) thinly sliced yellow onion
 - 2 tbsps olive oil
-- 1 teaspoon EACH: Italian seasoning, dried basil, dried parsley
-- &frac12; teaspoon garlic powder
-- 1 teaspoon paprika
-- &frac14; teaspoon dried thyme
+- 1 tsp EACH: Italian seasoning, dried basil, dried parsley
+- &frac12; tsp garlic powder
+- 1 tsp paprika
+- &frac14; tsp dried thyme
 - 4 tbsps unsalted butter, separated
 - Serve with: ketchup, fresh herbs (optional)
 
@@ -30,7 +30,7 @@ From [Chelsea's Messy Apron](https://www.chelseasmessyapron.com/hobo-foil-packet
 
 PREP: If you are using the oven, preheat it to 400 degrees F. If grilling, prepare the grill by heating to medium-high heat (425-450 degrees F.) Tear off four sheets of heavy-duty foil and lightly spritz with cooking spray. If you aren't going to be doing this meal in foil packs (See Note 1), line a large sheet pan with parchment paper and set aside.
 PREP VEGGIES: Cut the sausage into coins. Thinly slice the potatoes, about &frac18;th inch thick. Thinly slice the carrots and cut large carrot coins in half. Thinly slice the yellow onion. Add the sausage, potatoes, carrots, and onion to a large bowl.
-SEASON: Drizzle in 2 tbsps of oil and all of the seasonings (Italian seasoning, dried basil, dried parsley, garlic powder, paprika, dried thyme, and salt and pepper). Add salt and pepper to personal preference( I add &frac12; teaspoon salt and &frac14; teaspoon pepper). Toss everything together until well combined.
+SEASON: Drizzle in 2 tbsps of oil and all of the seasonings (Italian seasoning, dried basil, dried parsley, garlic powder, paprika, dried thyme, and salt and pepper). Add salt and pepper to personal preference( I add &frac12; tsp salt and &frac14; tsp pepper). Toss everything together until well combined.
 DIVIDE: Divide the mixture evenly among the four prepared sheets of foil. Cut the butter into 1 tbsp pieces and cut each tbsp piece into 4 smaller pieces. Add four pieces of butter to the foil packs (1 tbsp per foil pack). Seal the foil packs tightly so no air escapes, but do not double wrap the foil (only one sheet of foil per pack or the cook time will be off). To seal the foil packet, bring the short sides together in the middle and gently fold down to completely seal. Then, roll up the ends.
 COOK: Grill for 20-30 minutes or until veggies are fork tender (flip the foil packs at the halfway point). To bake foil packs, place foil packs on a sheet pan and bake for 30-35 minutes or until veggies are fork tender. Campfire: add to hot coals and cook for 20-30 minutes. Be aware they can take up to 40-45 minutes depending on the actual coals temperature, actual thickness of cut veggies, outside temperatures, how many foil packs are on the coals, etcup There is great variance in cooking these over coals.
 GARNISH: Carefully open the foil pack, expecting steam to be released. If desired, garnish with fresh herbs (we like fresh thyme) and serve with ketchup drizzled over everything or on the side.

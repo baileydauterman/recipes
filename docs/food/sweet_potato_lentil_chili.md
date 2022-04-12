@@ -8,7 +8,7 @@
 **Yield:** 6 servings<br> <br>
 [![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
 [![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#) &nbsp;&nbsp;
-[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-black)](#)
+[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-2451ba)](#)
 
 > :bulb: Top with crumbled feta cheese and fresh parsley. Serve with pita bread.
 
@@ -22,7 +22,7 @@
 - 1 large sweet potato (1 pound), peeled and cubed
 - 4 cloves garlic, minced
 - 1 tbsp curry powder
-- 2 teaspoons chili powder
+- 2 tsps chili powder
 - 5oz fresh baby spinach
 ## Materials
 - 1 gallon-sized plastic freezer bag

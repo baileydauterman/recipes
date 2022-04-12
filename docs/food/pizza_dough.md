@@ -4,11 +4,11 @@ From Carter
 
 ## Ingredients
 - 2-2 &frac13; cups all-purpose flour OR bread flour divided (250-295g)
-- 1 packet instant yeast (2 &frac14; teaspoon)
-- 1 &frac12; teaspoons sugar
-- &frac34; teaspoon salt
-- ⅛-&frac14; teaspoon garlic powder and/or dried basil leaves optional
-- 2 Tablespoons olive oil + additional
+- 1 packet instant yeast (2 &frac14; tsp)
+- 1 &frac12; tsps sugar
+- &frac34; tsp salt
+- ⅛-&frac14; tsp garlic powder and/or dried basil leaves optional
+- 2 tbsps olive oil + additional
 - &frac34; cup warm water (175ml)
 
 ## Instructions
@@ -21,6 +21,6 @@ From Carter
 7. Once the dough has risen, use your hands to gently deflate it and transfer to a lightly floured surface and knead briefly until smooth (about 3-5 times). 
 8. Use either your hands or a rolling pin to work the dough into 12" circle.
 9. Transfer dough to a parchment paper lined pizza pan and either pinch the edges or fold them over to form a crust.
-10. Drizzle additional olive oil (about a Tablespoon) over the top of the pizza and use your pastry brush to brush the entire surface of the pizza (including the crust) with olive oil. 
+10. Drizzle additional olive oil (about a tbsp) over the top of the pizza and use your pastry brush to brush the entire surface of the pizza (including the crust) with olive oil. 
 11. Use a fork to poke holes all over the center of the pizza to keep the dough from bubbling up in the oven.
 12. Add desired toppings (see the notes for a link to my favorite, 5-minute pizza sauce recipe!) and bake in a 425F (215C) preheated oven for 13-15 minutes or until toppings are golden brown. Slice and serve.

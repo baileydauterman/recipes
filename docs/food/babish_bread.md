@@ -1,15 +1,14 @@
-# Babbish Bread
+# Babish Bread
 
-![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-blue) &nbsp;&nbsp;
-![Cook Time](https://img.shields.io/badge/Cook_Time-45_min.-blue) &nbsp;&nbsp;
-![Total Time](https://img.shields.io/badge/Total_Time-65_min.-blue) &nbsp;&nbsp;
-![Yield](https://img.shields.io/badge/Yield-8_servings-blue) &nbsp;&nbsp;
+|  |  |  |
+| ----------- | ----------- | ----------- |
+| ![Prep Time](https://img.shields.io/badge/Prep_Time-30_min.-2451ba) | ![Cook Time](https://img.shields.io/badge/Cook_Time-35_to_45_min.-2451ba) | ![Total Time](https://img.shields.io/badge/Total_Time-70_min.-2451ba)
+| ![Category](https://img.shields.io/badge/Category-Snack-2451ba) | ![Yield](https://img.shields.io/badge/Yield-4_servings-2451ba) | ![Oven](https://img.shields.io/badge/Cooking_Method-Oven-2451ba)
 
-![Category](https://img.shields.io/badge/Category-Snack-blue) &nbsp;&nbsp;
-![Oven](https://img.shields.io/badge/Cooking_Method-Oven-blue)
-
-> From **[Binging with Babbish](https://www.bingingwithbabish.com/recipes/201&frac78;/22/worldsgreatestsandwich)** <br>
+> From **[Binging with Babish](https://www.bingingwithbabish.com/recipes/201&frac78;/22/worldsgreatestsandwich)** <br>
 Video **[World's Greatest Sandwich from Spanglish](https://www.youtube.com/watch?v=A_l8_C-EO38)**
+
+!> This recipe is a day long/overnight escapade. Take the Prep/Cook/Total Time with a grain of salt.
 
 ## Ingredients
 

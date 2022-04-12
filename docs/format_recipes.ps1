@@ -23,10 +23,21 @@ foreach ($recipe in $recipes) {
 
     $content = $content.Replace("tablespoon", "tbsp")
     $content = $content.Replace("tablespoons", "tbsp")
+    $content = $content.Replace("Tablespoon", "tbsp")
+    $content = $content.Replace("Tablespoons", "tbsp")
     $content = $content.Replace("Tbsp", "tbsp")
     $content = $content.Replace("TBSP", "tbsp")
 
+    $content = $content.Replace("Tsp", "tsp")
+    $content = $content.Replace("TSP", "tsp")
+    $content = $content.Replace("teaspoon", "tsp")
+    $content = $content.Replace("teaspoons", "tsp")
+    $content = $content.Replace("Teaspoon", "tsp")
+    $content = $content.Replace("Teaspoons", "tsp")
+
     $content = $content.Replace("c.", "cup")
+
+    $content = $content.Replace("-black", "-2451ba")
 
     Set-Content $recipe.FullName $content
 }

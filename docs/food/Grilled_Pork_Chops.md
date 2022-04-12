@@ -17,7 +17,7 @@ From [allrecipes](https://www.allrecipes.com/recipe/223405/best-grilled-pork-cho
 - &frac13; cup light soy sauce
 - &frac14; cup vegetable oil
 - 3 tbsps lemon pepper seasoning
-- 2 teaspoons minced garlic
+- 2 tsps minced garlic
 - 6 boneless pork loin chops, trimmed of fat
 
 ## Instructions 

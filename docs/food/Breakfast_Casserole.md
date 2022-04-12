@@ -1,12 +1,9 @@
 # Biscuits and Gravy with Sausage and Egg Breakfast Casserole
 
-![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-blue) &nbsp;&nbsp;
-![Cook Time](https://img.shields.io/badge/Cook_Time-45_min.-blue) &nbsp;&nbsp;
-![Total Time](https://img.shields.io/badge/Total_Time-65_min.-blue) &nbsp;&nbsp;
-![Yield](https://img.shields.io/badge/Yield-8_servings-blue) &nbsp;&nbsp;
-
-![Category](https://img.shields.io/badge/Category-Snack-blue) &nbsp;&nbsp;
-![Oven](https://img.shields.io/badge/Cooking_Method-Oven-blue)
+|  |  |  |
+| ----------- | ----------- | ----------- |
+| ![Prep Time](https://img.shields.io/badge/Prep_Time-30_min.-2451ba) | ![Cook Time](https://img.shields.io/badge/Cook_Time-35_to_45_min.-2451ba) | ![Total Time](https://img.shields.io/badge/Total_Time-70_min.-2451ba)
+| ![Category](https://img.shields.io/badge/Category-Breakfast-2451ba) | ![Yield](https://img.shields.io/badge/Yield-6_servings-2451ba) | ![Oven](https://img.shields.io/badge/Cooking_Method-Oven-2451ba)
 
 ## Ingredients
 

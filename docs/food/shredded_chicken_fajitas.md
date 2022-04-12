@@ -15,9 +15,9 @@ From Clean Eating Freezer Meals
 - &frac14; cup extra virgin olive oil
 - The juice from one lime (about 3 tbsps)
 - 1 tbsp chili powder
-- 2 teaspoons cumin
-- 1 teaspoon crushed red pepper flakes
-- &frac12; teaspoon salt
+- 2 tsps cumin
+- 1 tsp crushed red pepper flakes
+- &frac12; tsp salt
 
 ## Instructions
 

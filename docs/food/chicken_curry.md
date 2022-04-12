@@ -1,12 +1,9 @@
 # Chicken Curry
 
-![Prep Time](https://img.shields.io/badge/Prep_Time-8_min.-blue) &nbsp;&nbsp;
-![Cook Time](https://img.shields.io/badge/Cook_Time-20_min.-blue) &nbsp;&nbsp;
-![Total Time](https://img.shields.io/badge/Total_Time-28_min.-blue) &nbsp;&nbsp;
-![Yield](https://img.shields.io/badge/Yield-4_servings-blue) &nbsp;&nbsp;
-
-![Category](https://img.shields.io/badge/Category-Dinner-blue) &nbsp;&nbsp;
-![Oven](https://img.shields.io/badge/Cooking_Method-Stovetop-blue)
+|  |  |  |
+| ----------- | ----------- | ----------- |
+| ![Prep Time](https://img.shields.io/badge/Prep_Time-8_min.-2451ba) | ![Cook Time](https://img.shields.io/badge/Cook_Time-20_min.-2451ba) | ![Total Time](https://img.shields.io/badge/Total_Time-28_min.-2451ba)
+| ![Category](https://img.shields.io/badge/Category-Dinner-2451ba) | ![Yield](https://img.shields.io/badge/Yield-4_servings-2451ba) | ![Oven](https://img.shields.io/badge/Cooking_Method-Stovetop-2451ba)
 
 > From **[recipetineats](https://www.recipetineats.com/chicken-curry/)**
 

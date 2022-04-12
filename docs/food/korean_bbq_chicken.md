@@ -8,7 +8,7 @@
 **Yield:** 6 servings<br> <br>
 [![Breakfast](https://img.shields.io/badge/Meal_Type-Dinner-blue)](#) &nbsp;&nbsp;
 [![Oven](https://img.shields.io/badge/Cooking_Method-Oven-green)](#) &nbsp;&nbsp;
-[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-black)](#)
+[![Freezer](https://img.shields.io/badge/Is_Freezer_Meal-True-2451ba)](#)
 
 > :bulb: Top with sesame seeds and serve with rice.
 
@@ -20,7 +20,7 @@
 - The juice from one lemon (&frac14; cup)
 - 2 tbsps light brown sugar
 - 1 tbsp sesame oil
-- &frac12; teaspoon crushed red pepper flakes
+- &frac12; tsp crushed red pepper flakes
 - 1-inch fresh ginger, peeled and grated (1 tbsp)
 - 16oz bag of fresh coleslaw mix (grated cabbage and carrots)
 

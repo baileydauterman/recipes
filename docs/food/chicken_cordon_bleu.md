@@ -1,12 +1,9 @@
 # Chicken Cordon Bleu with Parmesan Cream Sauce
 
-![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-blue) &nbsp;&nbsp;
-![Cook Time](https://img.shields.io/badge/Cook_Time-45_min.-blue) &nbsp;&nbsp;
-![Total Time](https://img.shields.io/badge/Total_Time-65_min.-blue) &nbsp;&nbsp;
-![Yield](https://img.shields.io/badge/Yield-4_servings-blue) &nbsp;&nbsp;
-
-![Category](https://img.shields.io/badge/Category-Lunch/Dinner-blue) &nbsp;&nbsp;
-![Oven](https://img.shields.io/badge/Cooking_Method-Grill/Stovetop-blue)
+|  |  |  |
+| ----------- | ----------- | ----------- |
+| ![Prep Time](https://img.shields.io/badge/Prep_Time-20_min.-2451ba) | ![Cook Time](https://img.shields.io/badge/Cook_Time-20/_to_25_min.-2451ba) | ![Total Time](https://img.shields.io/badge/Total_Time-65_min.-2451ba)
+| ![Category](https://img.shields.io/badge/Category-Dinner-2451ba) | ![Yield](https://img.shields.io/badge/Yield-4_servings-2451ba) | ![Oven](https://img.shields.io/badge/Cooking_Method-Oven-2451ba)
 
 > From [Aunt Bee's Recipes](https://auntbeesrecipes.com/2013/12/chicken-cordon-bleu-with-parmesan-cream-sauce.html)
 

@@ -1,9 +1,9 @@
 # Southern Fried Cabbage and Bacon
 
-yield: 6 
-cook time: 10 MINUTES 
-additional time: 5 MINUTES 
-total time: 15 MINUTES
+|  |  |  |
+| ----------- | ----------- | ----------- |
+| ![Prep Time](https://img.shields.io/badge/Prep_Time-10_min.-2451ba) | ![Cook Time](https://img.shields.io/badge/Cook_Time-5_min.-2451ba) | ![Total Time](https://img.shields.io/badge/Total_Time-15_min.-2451ba)
+| ![Category](https://img.shields.io/badge/Category-Snack-2451ba) | ![Yield](https://img.shields.io/badge/Yield-6_servings-2451ba) | ![Oven](https://img.shields.io/badge/Cooking_Method-Stovetop-2451ba)
 
 From [Adventures of a Nurse](https://www.adventuresofanurse.com/southern-fried-cabbage-bacon/)
 
