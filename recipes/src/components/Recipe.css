@@ -1,0 +1,4 @@
+.open,
+.close {
+    transition-timing-function: "ease";
+ }

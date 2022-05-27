@@ -1,9 +1,17 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+// import Posts from './components/Posts';
 import FoodRecipe from './components/FoodRecipes';
 import NavigationBar from './components/NavigationBar';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import SearchBar from './components/SearchBar';
+import Recipes from './components/Recipes';
+
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Container from 'react-bootstrap/Container';
 
 function App() {
   return (
@@ -22,10 +30,23 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <NavigationBar/>
-      <div className="Food" style={{margin:"15px 20px 0px 20px"}}>
-        <FoodRecipe/>
-      </div>
+      <NavigationBar />
+
+      <Container style={{padding:"1% 0 1% 0"}}>
+        <Row>
+          <Col md={{ span: 6, offset: 3 }}>
+            <SearchBar />
+          </Col>
+        </Row>
+      </Container>
+
+      <Container>
+        <Row>
+          <Col md={{ span: 10, offset: 1 }}>
+            <Recipes />
+          </Col>
+        </Row>
+      </Container>
     </div>
   );
 }
