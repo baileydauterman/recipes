@@ -14,7 +14,8 @@ export interface Recipe {
     url:          string;
     prep_time:    string;
     cook_time:    string;
-    total_time:   string;
+    total_time:   TotalTime;
+    servings?:    string;
     from:         string;
     by:           string;
     ingredients:  string[];
@@ -24,6 +25,12 @@ export interface Recipe {
     video_url?:   string;
     helpful_tip?: string;
     notes?:       string[];
+}
+
+export enum TotalTime {
+    The15Min = "15 min",
+    The65Min = "65 min",
+    The70Min = "70 min",
 }
 
 // Converts JSON strings to/from your types
@@ -178,7 +185,8 @@ const typeMap: any = {
         { json: "url", js: "url", typ: "" },
         { json: "prep_time", js: "prep_time", typ: "" },
         { json: "cook_time", js: "cook_time", typ: "" },
-        { json: "total_time", js: "total_time", typ: "" },
+        { json: "total_time", js: "total_time", typ: r("TotalTime") },
+        { json: "servings", js: "servings", typ: u(undefined, "") },
         { json: "from", js: "from", typ: "" },
         { json: "by", js: "by", typ: "" },
         { json: "ingredients", js: "ingredients", typ: a("") },
@@ -189,4 +197,9 @@ const typeMap: any = {
         { json: "helpful_tip", js: "helpful_tip", typ: u(undefined, "") },
         { json: "notes", js: "notes", typ: u(undefined, a("")) },
     ], false),
+    "TotalTime": [
+        "15 min",
+        "65 min",
+        "70 min",
+    ],
 };

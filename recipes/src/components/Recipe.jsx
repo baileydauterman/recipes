@@ -7,7 +7,7 @@ import ListGroupItem from 'react-bootstrap/ListGroupItem';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus, faThumbsUp, faThumbsDown } from '@fortawesome/free-solid-svg-icons';
 
-const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, total_time, from, by, ingredients, instructions, likes, dislikes, video_url, helpful_tip, notes } }) => {
+const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, servings, ingredients, instructions, likes, dislikes, video_url, helpful_tip, notes } }) => {
   const [show, setShow] = React.useState(false);
   const [like, setLikes] = React.useState(likes);
   const [dislike, setDislikes] = React.useState(dislikes);
@@ -33,6 +33,7 @@ const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, t
 
             <ListGroupItem><Card.Subtitle className="text-center">Prep Time: {prep_time} </Card.Subtitle></ListGroupItem>
             <ListGroupItem><Card.Subtitle className="text-center">Cook Time: {cook_time}</Card.Subtitle></ListGroupItem>
+            <ListGroupItem><Card.Subtitle className="text-center">Servings: {servings}</Card.Subtitle></ListGroupItem>
           </ListGroup>
           <br />
 

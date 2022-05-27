@@ -7,6 +7,7 @@
         "prep_time": "20 min",
         "cook_time": "45 min",
         "total_time": "65 min",
+        "servings": "4",
         "from": "Amish Heritage Cookbook",
         "by": "Bevery Lewis",
         "ingredients": [
@@ -464,6 +465,39 @@
         ],
         "notes": [
             "Shrimp Option: Replace chicken breasts with two dozen raw shrimp. Freeze shrimp in a separate plastic freezer bag and store in the refrigerator while cooking other ingredients in the crockpot. Add the shrimp to the crockpot the last 30 minutes of  cooking or continue to cook until the shrimp is opaque and cooked through."
+        ],
+        "likes": 0,
+        "dislikes": 0
+    },
+    {
+        "id": "13",
+        "title": "Sauteed Black Sea Bass With Capers and Herb-Butter Sauce",
+        "description": "This is a simple, quick, and delicious Thai green curry chicken recipe. It's a great way to make a quick, easy, and healthy meal for a quick lunch or dinner.",
+        "url": "",
+        "video_url": "",
+        "prep_time": "20 min",
+        "cook_time": "25 min",
+        "total_time": "15 min",
+        "servings": "4",
+        "from": "Asain Crockpot Freezer Meals",
+        "by": "",
+        "ingredients": [
+            "4 skin-on black-sea-bass fillets (about 1 1/4 pounds total)",
+            "Kosher salt and freshly ground pepper",
+            "Instant flour, such as Wondra, for sprinkling",
+            "1 tablespoon extra-virgin olive oil",
+            "1/3 cup dry vermouth",
+            "1 tablespoon capers, drained and rinsed",
+            "3 tablespoons unsalted butter",
+            "1/4 cup lightly packed chopped fresh tender herbs, such as parsley, dill, tarragon, and chives"
+        ],
+        "instructions": [
+            "Pat fillets dry; slash skin side of each crosswise in 2-inch intervals. Season generously with salt and pepper. Sprinkle with flour to evenly coat, shaking off excess.",
+            "Heat oil in a large skillet over medium-high. When oil shimmers and wisps of smoke rise from skillet, add fish in a single layer, skin-sides down. Reduce heat to medium; cook, undisturbed,until skin is crisp and flesh is opaque halfway up sides and almost cooked through, 5 to 7minutes, depending on thickness.",
+            "Flip and continue cooking until just cooked through, 1 to 2 minutes more. Transfer to plates, skin-sides up. Add vermouth to skillet; boil until mostly evaporated, 1 to 2 minutes. Add capers and butter; cook until butter simmers and sauce thickens slightly, about 2 minutes. Remove from heat; stir in herbs. Return fish to skillet, skin-side up; spoon butter sauce over top. Serve immediately."
+        ],
+        "notes": [
+            "Slashing the skin a few times (at two-inch intervals), means that when you lay the fish skin-side down in the hot pan, it won't curl up and will cook evenly."
         ],
         "likes": 0,
         "dislikes": 0
