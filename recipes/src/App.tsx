@@ -1,4 +1,5 @@
 import React from 'react';
+import { createContext } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -13,41 +14,37 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 
+export const ThemeContext = React.createContext('dark');
+
 function App() {
+  const [theme, setTheme] = React.useState('dark');
+
+  const toggleTheme = () => {
+    setTheme(theme === 'dark' ? 'light' : 'dark');
+  };
+  
   return (
-    <div className="App">
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
-      <NavigationBar />
+    <ThemeContext.Provider value="dark">
+      <div className="App" id="dark">
+        <NavigationBar />
 
-      <Container style={{padding:"1% 0 1% 0"}}>
-        <Row>
-          <Col md={{ span: 6, offset: 3 }}>
-            <SearchBar />
-          </Col>
-        </Row>
-      </Container>
+        <Container style={{ padding: "1% 0 1% 0" }}>
+          <Row>
+            <Col md={{ span: 6, offset: 3 }}>
+              <SearchBar />
+            </Col>
+          </Row>
+        </Container>
 
-      <Container>
-        <Row>
-          <Col md={{ span: 10, offset: 1 }}>
-            <Recipes />
-          </Col>
-        </Row>
-      </Container>
-    </div>
+        <Container>
+          <Row>
+            <Col md={{ span: 10, offset: 1 }}>
+              <Recipes />
+            </Col>
+          </Row>
+        </Container>
+      </div>
+    </ThemeContext.Provider>
   );
 }
 

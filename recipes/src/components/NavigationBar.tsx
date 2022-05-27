@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
 import Navbar from 'react-bootstrap/Navbar';
-import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 
@@ -10,7 +9,7 @@ const NavigationBar: React.FC = () => {
 
     return (
         <>
-            <Navbar bg="light" expand="lg">
+            <Navbar variant='dark' expand="lg">
                 <Container fluid>
                     <Navbar.Brand href="#">Bailey</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
