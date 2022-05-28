@@ -15,7 +15,7 @@ export interface Recipe {
     prep_time:    string;
     cook_time:    string;
     total_time:   TotalTime;
-    servings?:    string;
+    servings:     number;
     from:         string;
     by:           string;
     ingredients:  string[];
@@ -186,7 +186,7 @@ const typeMap: any = {
         { json: "prep_time", js: "prep_time", typ: "" },
         { json: "cook_time", js: "cook_time", typ: "" },
         { json: "total_time", js: "total_time", typ: r("TotalTime") },
-        { json: "servings", js: "servings", typ: u(undefined, "") },
+        { json: "servings", js: "servings", typ: 0 },
         { json: "from", js: "from", typ: "" },
         { json: "by", js: "by", typ: "" },
         { json: "ingredients", js: "ingredients", typ: a("") },

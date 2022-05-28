@@ -7,6 +7,10 @@ import ListGroupItem from 'react-bootstrap/ListGroupItem';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus, faThumbsUp, faThumbsDown } from '@fortawesome/free-solid-svg-icons';
 
+import Col from 'react-bootstrap/Col';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+
 const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, servings, ingredients, instructions, likes, dislikes, video_url, helpful_tip, notes } }) => {
   const [show, setShow] = React.useState(false);
   const [like, setLikes] = React.useState(likes);
@@ -31,9 +35,21 @@ const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, s
             alignItems: "center"
           }}>
 
-            <ListGroupItem><Card.Subtitle className="text-center">Prep Time: {prep_time} </Card.Subtitle></ListGroupItem>
-            <ListGroupItem><Card.Subtitle className="text-center">Cook Time: {cook_time}</Card.Subtitle></ListGroupItem>
-            <ListGroupItem><Card.Subtitle className="text-center">Servings: {servings}</Card.Subtitle></ListGroupItem>
+            <Container>
+              <Row>
+                <Col><Card.Subtitle className="text-center">Prep Time</Card.Subtitle></Col>
+                <Col><Card.Subtitle className="text-center">{prep_time}</Card.Subtitle></Col>
+              </Row>
+              <Row>
+                <Col><Card.Subtitle className="text-center">Cook Time</Card.Subtitle></Col>
+                <Col><Card.Subtitle className="text-center">{cook_time}</Card.Subtitle></Col>
+              </Row>
+              <Row>
+                <Col><Card.Subtitle className="text-center">Servings</Card.Subtitle></Col>
+                <Col><Card.Subtitle className="text-center">{servings}</Card.Subtitle></Col>
+              </Row>
+            </Container>
+
           </ListGroup>
           <br />
 
@@ -46,12 +62,12 @@ const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, s
               <div>
                 <h3 className='text-start'>Ingredients</h3>
                 <ol className="text-start">
-                  {ingredients.map((ingredient) => (<li key={ingredient} style={{padding: "1%"}}><b>{ingredient}</b></li>))}
+                  {ingredients.map((ingredient) => (<li key={ingredient} style={{ padding: "1%" }}><b>{ingredient}</b></li>))}
                 </ol>
 
                 <h3 className='text-start'>Method</h3>
                 <ol className="text-start">
-                  {instructions.map((instruction) => (<li key={instruction} style={{padding: "1%"}}><b>{instruction}</b></li>))}
+                  {instructions.map((instruction) => (<li key={instruction} style={{ padding: "1%" }}><b>{instruction}</b></li>))}
                 </ol>
               </div> : null
             }

@@ -7,7 +7,7 @@
         "prep_time": "20 min",
         "cook_time": "45 min",
         "total_time": "65 min",
-        "servings": "4",
+        "servings": 4,
         "from": "Amish Heritage Cookbook",
         "by": "Bevery Lewis",
         "ingredients": [
@@ -42,6 +42,7 @@
         "prep_time": "30 min",
         "cook_time": "45 min",
         "total_time": "70 min",
+        "servings": 0,
         "from": "Binging with Babish",
         "by": "Babish",
         "ingredients": [
@@ -77,6 +78,7 @@
         "prep_time": "30 min",
         "cook_time": "45 min",
         "total_time": "70 min",
+        "servings": 0,
         "from": "Bing with Babish",
         "by": "Babish",
         "ingredients": [
@@ -111,6 +113,7 @@
         "prep_time": "5 min",
         "cook_time": "10 min",
         "total_time": "15 min",
+        "servings": 0,
         "from": "Bing with Babish",
         "by": "Babish",
         "ingredients": [
@@ -142,6 +145,7 @@
         "prep_time": "20 min",
         "cook_time": "45 min",
         "total_time": "65 min",
+        "servings": 0,
         "from": "Carter",
         "by": "Carter",
         "ingredients": [
@@ -185,6 +189,7 @@
         "prep_time": "20 min",
         "cook_time": "45 min",
         "total_time": "65 min",
+        "servings": 0,
         "from": "Aunt Bee's Recipes",
         "by": "Brandi Burgess",
         "ingredients": [
@@ -241,6 +246,7 @@
         "prep_time": "5 min",
         "cook_time": "10 min",
         "total_time": "15 min",
+        "servings": 0,
         "from": "recipetineats",
         "by": "Babish",
         "ingredients": [
@@ -282,6 +288,7 @@
         "prep_time": "10 min",
         "cook_time": "5 min",
         "total_time": "15 min",
+        "servings": 0,
         "from": "Adventures of a Nurse",
         "by": "Babish",
         "ingredients": [
@@ -316,6 +323,7 @@
         "prep_time": "10 min",
         "cook_time": "5 min",
         "total_time": "15 min",
+        "servings": 0,
         "from": "RecipeTin Eats",
         "by": "",
         "ingredients": [
@@ -366,6 +374,7 @@
         "prep_time": "10 min",
         "cook_time": "5 min",
         "total_time": "15 min",
+        "servings": 0,
         "from": "RecipeTin Eats",
         "by": "",
         "ingredients": [
@@ -412,6 +421,7 @@
         "prep_time": "10 min",
         "cook_time": "5 min",
         "total_time": "15 min",
+        "servings": 0,
         "from": "RecipeTin Eats",
         "by": "",
         "ingredients": [
@@ -442,6 +452,7 @@
         "prep_time": "15 min",
         "cook_time": "20 min",
         "total_time": "15 min",
+        "servings": 0,
         "from": "Asain Crockpot Freezer Meals",
         "by": "",
         "ingredients": [
@@ -478,7 +489,7 @@
         "prep_time": "20 min",
         "cook_time": "25 min",
         "total_time": "15 min",
-        "servings": "4",
+        "servings": 4,
         "from": "Asain Crockpot Freezer Meals",
         "by": "",
         "ingredients": [
