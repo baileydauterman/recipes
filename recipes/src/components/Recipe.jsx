@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
-import ListGroupItem from 'react-bootstrap/ListGroupItem';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus, faThumbsUp, faThumbsDown } from '@fortawesome/free-solid-svg-icons';
@@ -36,16 +35,16 @@ const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, s
           }}>
 
             <Container>
-              <Row style={{"margin-top": "3px"}}>
-                <Col><Card.Subtitle className="text-start">Prep Time</Card.Subtitle></Col>
+              <Row style={{marginTop: "3px"}}>
+                <Col><Card.Subtitle className="text-end">Prep Time</Card.Subtitle></Col>
                 <Col><Card.Subtitle className="text-start">{prep_time}</Card.Subtitle></Col>
               </Row>
-              <Row style={{"margin-top": "3px"}}>
-                <Col><Card.Subtitle className="text-start">Cook Time</Card.Subtitle></Col>
+              <Row style={{marginTop: "3px"}}>
+                <Col><Card.Subtitle className="text-end">Cook Time</Card.Subtitle></Col>
                 <Col><Card.Subtitle className="text-start">{cook_time}</Card.Subtitle></Col>
               </Row>
-              <Row style={{"margin-top": "3px"}}>
-                <Col><Card.Subtitle className="text-start">Servings</Card.Subtitle></Col>
+              <Row style={{marginTop: "3px"}}>
+                <Col><Card.Subtitle className="text-end">Servings</Card.Subtitle></Col>
                 <Col><Card.Subtitle className="text-start">{servings}</Card.Subtitle></Col>
               </Row>
             </Container>
