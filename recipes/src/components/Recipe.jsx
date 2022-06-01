@@ -36,17 +36,17 @@ const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, s
           }}>
 
             <Container>
-              <Row>
-                <Col><Card.Subtitle className="text-center">Prep Time</Card.Subtitle></Col>
-                <Col><Card.Subtitle className="text-center">{prep_time}</Card.Subtitle></Col>
+              <Row style={{"margin-top": "3px"}}>
+                <Col><Card.Subtitle className="text-start">Prep Time</Card.Subtitle></Col>
+                <Col><Card.Subtitle className="text-start">{prep_time}</Card.Subtitle></Col>
               </Row>
-              <Row>
-                <Col><Card.Subtitle className="text-center">Cook Time</Card.Subtitle></Col>
-                <Col><Card.Subtitle className="text-center">{cook_time}</Card.Subtitle></Col>
+              <Row style={{"margin-top": "3px"}}>
+                <Col><Card.Subtitle className="text-start">Cook Time</Card.Subtitle></Col>
+                <Col><Card.Subtitle className="text-start">{cook_time}</Card.Subtitle></Col>
               </Row>
-              <Row>
-                <Col><Card.Subtitle className="text-center">Servings</Card.Subtitle></Col>
-                <Col><Card.Subtitle className="text-center">{servings}</Card.Subtitle></Col>
+              <Row style={{"margin-top": "3px"}}>
+                <Col><Card.Subtitle className="text-start">Servings</Card.Subtitle></Col>
+                <Col><Card.Subtitle className="text-start">{servings}</Card.Subtitle></Col>
               </Row>
             </Container>
 
