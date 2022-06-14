@@ -50,11 +50,11 @@ const RecipesPage = () => {
                         }
                     }).map((recipe) => (
                         <Col>
-                            <Recipe recipe={recipe} />
+                            <Recipe recipe={recipe} style={{paddingTop: "1rem"}} />
                         </Col>
                     ))}
                 </Row>
-                
+
                 {recipesCount === 0 &&
                     <NoMatches />}
             </Container>

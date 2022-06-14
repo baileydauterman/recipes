@@ -25,7 +25,7 @@ const Recipe = ({ recipe: { id, title, description, url, prep_time, cook_time, s
         bg="dark"
         key="dark"
         text="white">
-        <Card.Img variant="top" src="https://mdbootstrap.com/img/new/standard/nature/184.webp" />
+        {/* <Card.Img variant="top" src="https://mdbootstrap.com/img/new/standard/nature/184.webp" /> */}
         <Card.Body>
           <Card.Title>{title}</Card.Title>
           <ListGroup horizontal style={{

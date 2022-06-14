@@ -13,13 +13,9 @@ export const ThemeContext = React.createContext('dark');
 function App() {
   const [theme, setTheme] = React.useState('dark');
 
-  const toggleTheme = () => {
-    setTheme(theme === 'dark' ? 'light' : 'dark');
-  };
 
   return (
-    <ThemeContext.Provider value="dark">
-      <div className="App" id="dark">
+      <div className="App">
         <NavigationBar />
 
         <RecipesPage />
@@ -31,7 +27,6 @@ function App() {
         <Link to="/recipes">Recipes</Link> */}
 
       </div>
-    </ThemeContext.Provider>
   );
 }
 
