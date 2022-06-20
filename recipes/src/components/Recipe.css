@@ -1,0 +1,67 @@
+.v4_22 {
+    width: 374px;
+    height: 90px;
+    background: rgba(19, 21, 22, 1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v4_23 {
+    width: 80px;
+    height: 65px;
+    background: rgba(136, 136, 136, 1);
+    opacity: 1;
+    position: absolute;
+    top: 13px;
+    left: 10px;
+    overflow: hidden;
+}
+
+.v4_24 {
+    color: rgba(217, 217, 217, 1);
+    position: absolute;
+    top: 24px;
+    left: 108px;
+    font-family: Ubuntu;
+    font-weight: Regular;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v4_25 {
+    width: 35px;
+    color: rgba(217, 217, 217, 1);
+    position: absolute;
+    top: 57px;
+    left: 108px;
+    font-family: Ubuntu;
+    font-weight: Light;
+    font-size: 8px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v4_26 {
+    width: 42px;
+    color: rgba(217, 217, 217, 1);
+    position: absolute;
+    top: 43px;
+    left: 108px;
+    font-family: Ubuntu;
+    font-weight: Light;
+    font-size: 8px;
+    opacity: 1;
+    text-align: left;
+}
+
+.name {
+    color: #fff;
+}
+
+.name {
+    color: #fff;
+}

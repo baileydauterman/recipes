@@ -1,65 +1,65 @@
 import React from 'react';
 import recipes from "./food.json";
 import { Convert } from "./RecipeParser";
-import Recipe from "./Recipe"
+import { useTheme } from '@mui/material/styles';
+
+import Recipe from "./Recipe";
 
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Button from 'react-bootstrap/Button';
-import Form from 'react-bootstrap/Form';
-import FormControl from 'react-bootstrap/FormControl';
-import Container from 'react-bootstrap/Container';
-import NoMatches from './NoMatches';
+import Box from '@mui/material/Box';
+import Container from '@mui/material/Container';
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
 
-const RecipesPage = () => {
+const NoMatches = () => {
+    <Box>
+        <Alert severity="warning">
+            <AlertTitle>Warning</AlertTitle>
+            This is a warning alert — <strong>check it out!</strong>
+        </Alert>
+    </Box>
+}
 
-    const [query, setQuery] = React.useState('');
-    const parseRecipes = Convert.toRecipe(JSON.stringify(recipes));
+const parseRecipes = Convert.toRecipe(JSON.stringify(recipes));
+
+
+const RecipesPage = (query) => {
+
     let recipesCount = 0;
+    let searchString = query.query.toString();
+    const theme = useTheme();
 
     return (
         <>
-            <Container style={{ padding: "1% 0 1% 0" }}>
-                <Form className="d-flex">
-                    <FormControl
-                        type="search"
-                        placeholder="Search"
-                        className="me-2"
-                        aria-label="Search"
-                        onChange={event => setQuery(event.target.value)}
-                    />
-                    <Button variant="outline-primary">Search</Button>
-                </Form>
-            </Container>
-
-            <Container fluid>
+            <Container>
                 <Row xs={1} md={2} lg={3} xl={4}>
-                    {parseRecipes.filter(recipe => {
-                        if (query === '') {
-                            recipesCount++;
-                            return recipe
-                        } else if (recipe.title.toLowerCase().includes(query.toLowerCase())) {
-                            recipesCount++;
-                            return recipe
-                        } else if (recipe.ingredients.toString().toLowerCase().includes(query.toLowerCase())) {
-                            recipesCount++;
-                            return recipe
-                        } else if (recipe.instructions.toString().toLowerCase().includes(query.toLowerCase())) {
-                            recipesCount++;
-                            return recipe
+                    {parseRecipes.filter((r) => {
+                        if (searchString === '') {
+                            recipesCount++
+                            return r
+                        } else if (r.title.toLowerCase().includes(searchString.toLowerCase())) {
+                            recipesCount++
+                            return r
+                        } else if (r.ingredients.toString().toLowerCase().includes(searchString.toLowerCase())) {
+                            recipesCount++
+                            return r
+                        } else if (r.instructions.toString().toLowerCase().includes(searchString.toLowerCase())) {
+                            recipesCount++
+                            return r
                         }
-                    }).map((recipe) => (
+                    }).map((r) =>
                         <Col>
-                            <Recipe recipe={recipe} style={{paddingTop: "1rem"}} />
+                            <br />
+                            <Recipe recipe={r}/>
                         </Col>
-                    ))}
-                </Row>
+                    )}
 
-                {recipesCount === 0 &&
-                    <NoMatches />}
+                    {recipesCount === 0 ? <NoMatches /> : null}
+                </Row>
             </Container>
         </>
-    );
+    )
 };
 
 export default RecipesPage;
